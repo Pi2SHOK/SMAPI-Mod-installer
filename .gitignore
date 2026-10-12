@@ -45,4 +45,9 @@ Thumbs.db
 
 # Local Documentation
 Commands.md
-exe_builder/
+!exe_builder/
+exe_builder/*
+!exe_builder/build.py
+!exe_builder/icon.ico
+*.txt
+!requirements.txt
